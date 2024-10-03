@@ -1,0 +1,2 @@
+# sqlAnalyse
+postgresSQL的sql脚本提取创建和COPY
